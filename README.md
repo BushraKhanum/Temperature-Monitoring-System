@@ -62,6 +62,10 @@ Send data wirelessly using Wi-Fi (ESP32) or Bluetooth
 
 Set threshold alerts with buzzer or LED indicators
 
-Data logging to SD card or cloud for analysis
+Data logging to SD card or cloud for analysis 
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/9d787699-5d38-4b9b-ae68-3f17a8cbb42c)
 
 
