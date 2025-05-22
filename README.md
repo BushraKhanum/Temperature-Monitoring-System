@@ -64,6 +64,11 @@ Set threshold alerts with buzzer or LED indicators
 
 Data logging to SD card or cloud for analysis 
 
+# Code Block Diagram
+
+![Image](https://github.com/user-attachments/assets/27eb9a33-e27d-4cca-ada5-e4ea01924d9f)
+
+
 # Output
 
 ![Image](https://github.com/user-attachments/assets/9d787699-5d38-4b9b-ae68-3f17a8cbb42c)
